@@ -38,7 +38,7 @@ div.头部
     border-radius:25px;
     width:100%;
     height:10%;
-    box-shadow:0px 5px 5px #888888;
+    box-shadow:0px 5px 5px #000000;
     margin:5px auto;
 }
 div.内容
@@ -49,7 +49,7 @@ div.内容
     width:80%;
     height:auto;
     float:left;
-    box-shadow:10px 10px 5px #888888;
+    box-shadow:10px 10px 5px #000000;
     margin:5px auto;
 }
 div.侧边栏
@@ -60,7 +60,7 @@ div.侧边栏
     border-radius:25px;
     width:18%;
     height:1000px;
-    box-shadow:10px 10px 5px #888888;
+    box-shadow:10px 10px 5px #000000;
     margin:5px auto;
 }
 div.底栏
@@ -71,7 +71,7 @@ div.底栏
     border-radius:25px;
     width:100%;
     height:auto;
-    box-shadow:0px 5px 5px #888888;
+    box-shadow:0px 5px 5px #000000;
     margin:5px auto;
 }
 ul.导航栏
@@ -104,7 +104,7 @@ div.扣字高手
     height:auto;
     border:1px solid black;
     border-radius:25px;
-    box-shadow:10px 10px 5px #888888;
+    box-shadow:10px 10px 5px #000000;
     margin:5px auto;
 }
 div.C位出道
@@ -115,7 +115,7 @@ div.C位出道
     height:auto;
     border:1px solid black;
     border-radius:25px;
-    box-shadow:10px 10px 5px #888888;
+    box-shadow:10px 10px 5px #000000;
     margin:5px auto;
 }
 /*手机显示*/
@@ -128,7 +128,7 @@ div.C位出道
         border-radius:25px;
         width:100%;
         height:10%;
-        box-shadow:0px 5px 5px #888888;
+        box-shadow:0px 5px 5px #000000;
         margin:5px auto;
     }
     div.内容
@@ -138,7 +138,7 @@ div.C位出道
         border-radius:25px;
         width:100%;
         height:auto;
-        box-shadow:0px 5px 5px #888888;
+        box-shadow:0px 5px 5px #000000;
         margin:5px auto;
     }
     div.侧边栏
@@ -149,7 +149,7 @@ div.C位出道
         border-radius:25px;
         width:100%;
         height:auto;
-        box-shadow:0px 5px 5px #888888;
+        box-shadow:0px 5px 5px #000000;
         margin:5px auto;
     }
     div.底栏
@@ -159,7 +159,7 @@ div.C位出道
         border-radius:25px;
         width:100%;
         height:auto;
-        box-shadow:0px 5px 5px #888888;
+        box-shadow:0px 5px 5px #000000;
         margin:5px auto;
     }
     div.扣字高手
@@ -169,7 +169,7 @@ div.C位出道
         height:30%;
         border:1px solid black;
         border-radius:25px;
-        box-shadow:0px 5px 5px #888888;
+        box-shadow:0px 5px 5px #000000;
         margin:5px auto;
     }
     div.C位出道
@@ -179,7 +179,7 @@ div.C位出道
         height:auto;
         border:1px solid black;
         border-radius:25px;
-        box-shadow:0px 5px 5px #888888;
+        box-shadow:0px 5px 5px #000000;
         margin:5px auto;
      }
     ul.导航栏
@@ -226,7 +226,7 @@ div.C位出道
     border-radius:25px;
     font-size:20px;
     text-indent:15px;
-    box-shadow:0px 5px 5px #888888;
+    box-shadow:0px 5px 5px #000000;
 }
 .副菜单>.菜单项_战将{
     width:100%;
@@ -268,4 +268,9 @@ div.C位出道
     list-style-type:none;
     background-color:#FFFFFF;
     padding:10px;
+}
+img.首页图片
+{
+width:100px;
+height:auto;
 }
